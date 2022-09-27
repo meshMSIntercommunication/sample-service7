@@ -1,3 +1,2 @@
 server:
-  port: 9007
-  hostname: localhost
+  port: 9000
