@@ -66,6 +66,7 @@
 				</executions>
 			</plugin>
 		</plugins>
+		<finalName>sampleService7</finalName>
 	</build>
 
 </project>
